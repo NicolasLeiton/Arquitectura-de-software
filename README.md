@@ -2,7 +2,7 @@
 
 ## 1. El Problema (Discovery)
 ### Problemas más comunes según la encuesta:
-![Distribución de las áreas del problema](imagenes/area_problema.png)
+![Distribución de las áreas del problema](imagenes/Area_problema.png)
 ### ¿Qué duele?
 
 1. Hace un mes tuve que sacar una cita para mi abuelo, el cual es un adulto mayor. Por lo que tuve que hacer una fila para recibir un turno y, al momento del llamado del respectivo turno, me dijeron que estas citas aún no estaban habilitadas, perdiendo tiempo desde las 5:00 a.m. hasta las 8:00 a.m.
@@ -12,7 +12,7 @@
 
 Es un problema recurrente: 3.82
 
-![Frecuencia del problema](imagenes/frecuencia_problema.png)
+![Frecuencia del problema](imagenes/Frecuencia_problema.png)
 
 ### La Solución Soñada
 
